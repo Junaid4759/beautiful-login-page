@@ -26,7 +26,6 @@ Screenshot of login modal
 Screenshot of register modal
 
 **Credits**
-This web page was created by [Junaid Ali].
+This web page was created by Junaid Ali.
 **If yoy found this useful and want to support**
-Support me here : 
-https://www.buymeacoffee.com/junaid4759
+
