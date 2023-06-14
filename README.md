@@ -1,4 +1,5 @@
 # beautiful website with login and registration option
+https://junaid4759.github.io/beautiful-login-page/
 
 This is a simple web page that allows users to login or register by clicking on a button that pops up a modal. The purpose of this page is to provide a simple and straightforward user interface for logging in and registering for your website.
 
@@ -26,6 +27,6 @@ Screenshot of login modal
 Screenshot of register modal
 
 **Credits**
-This web page was created by Junaid Ali.
+This web page(https://junaid4759.github.io/beautiful-login-page/) was created by Junaid Ali.
 **If yoy found this useful and want to support**
 
